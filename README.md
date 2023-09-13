@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JPMENEU
-- 👀 I’m start to learn coding
+- 👀 I'm here to learn coding
   
