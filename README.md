@@ -1,3 +1,3 @@
-- 👋 Hi, I’m [@JPMENEU](https://www.josemeneu.com)
+- 👋 Hi, I’m [José Meneu](https://www.josemeneu.com)
 - 👀 I'm here to learn coding
 - :school: Started DAW at [IES José Rodrigo Botet](https://portal.edu.gva.es/iesrodrigobotet/es/inicio/)
