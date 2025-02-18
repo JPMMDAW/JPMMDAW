@@ -14,8 +14,9 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 - 🔗 Integración de APIs RESTful
 
 ### **Lenguajes de Programación:**
--  **Java**
+- ☕ **Java**
 - 💻 **PHP**
+- 📌 **JavaScript**
 
 ### **Bases de Datos:**
 - 📊 **SQLite (APIs nativas y Room)**
